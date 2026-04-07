@@ -4,20 +4,10 @@ It doesn't mean that computer science knowledge is unimportant in today's AI era
 ## 🚀 About Me
 I'm a beginner Full-Stack Developer passionate about learning web development and building interesting projects that solve real problems. Through self-teaching and hands-on practice, I'm exploring the fundamentals of both frontend and backend development. I'm excited about creating meaningful applications and growing my skills every day!
 
-## 💼 Learning Journey
-- 🎓 Self-taught Developer
-- 💻 Building foundational Full-Stack skills
-- 🌱 Currently focused on React, TypeScript, Python, and PostgreSQL
-- 📚 Learning from resources like freeCodeCamp and community tutorials
-- 🎯 Passionate about building interesting projects
-
 ## 🛠️ Technical Skills
-
 **Frontend Technologies:**
 - HTML5, CSS3, JavaScript, React, TypeScript
-
 **Backend Technologies:**
 - Python, PostgreSQL
-
 **Tools & Platforms:**
 - Git, VS Code
