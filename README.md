@@ -7,7 +7,9 @@ I'm a beginner Full-Stack Developer passionate about learning web development an
 ## 🛠️ Technical Skills
 **Frontend Technologies:**
 - HTML5, CSS3, JavaScript, React, TypeScript
+
 **Backend Technologies:**
 - Python, PostgreSQL
+
 **Tools & Platforms:**
 - Git, VS Code
