@@ -1,4 +1,4 @@
-# Brief introduction
+# Intro
 
 It doesn't mean that computer science knowledge is unimportant in today's AI era. On the contrary, this knowledge is fundamental for building software. While AI serves as an alternative to writing code by hand, making the actual typing of code less critical, it's always essential to keep a human in the loop because verification is necessary for AI generated code. That's also why we still need a strong foundational skill set, and why vibe coding has it's limmitations in software development.
 
